@@ -1,5 +1,5 @@
 # Estudos com PowerShell
 
-Projeto utilizado para publicar os meus scripts utilizados nos meus estudos de PowerShell.
+Este repositório é utilizado para todos os meus scripst públicos. 
 
-Baseado em meus estudos na internet, e para resolver problemas no meu trabalho diário, visando automação em servidores e desktops.
+Caso tenha algum problema ou dúvida ao utilizá-los, me informe, sempre podemos melhorar.
