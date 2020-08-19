@@ -1,4 +1,4 @@
-# Estudos com PowerShell
+# PowerShell
 
 Este repositório é utilizado para todos os meus scripst públicos. 
 
